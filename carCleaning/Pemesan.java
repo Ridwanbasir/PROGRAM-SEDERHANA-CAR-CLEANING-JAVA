@@ -9,7 +9,6 @@ public class Pemesan {
         System.out.println("---------Car Cleaning-----------");
         System.out.println("-----Anda Pesan Kami Datang-----");
         System.out.println("================================\n");
-
         System.out.println("Masukkan Data Pemesanan");
         System.out.print("Masukkan Nama : ");
         nama = input.nextLine();
